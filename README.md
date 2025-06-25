@@ -85,15 +85,4 @@ This experiment demonstrates how port scanning reveals crucial insights about th
 - **Network Security Awareness**  
   Understood the implications of exposed services and the importance of closing or filtering unused ports.
 
----
 
-
-
-## 🙋‍♂️ Author:
-
-**Name:** Spandan Jana
-**Role:** Cybersecurity Intern @The ELevate Labs
-
-**Task Date:** 23rd June 2025
-
----
